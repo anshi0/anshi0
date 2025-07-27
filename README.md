@@ -1,13 +1,11 @@
 <h1 align="left">Hi 👋, I'm Anshita Siroya</h1>
 <h3 align="left">A passionate Software engineer developer from India</h3>
 
-- 🌱 I’m currently learning **React, Tensorflow**
+- 🌱 I’m currently advancing my **competitive programming skills**
 
-- 💬 Ask me about **C++, JS**
+- 💬 Ask me about **C++, JS, python, C#**
 
 - 📫 How to reach me **anshitasiroya@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
